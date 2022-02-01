@@ -1,0 +1,12 @@
+package devices;
+
+public enum DeviceType {
+    PET_FOOD_DEVICE,
+    FOOD_DEVICE,
+    SPORT_DEVICE,
+    ENTERTAINMENT_DEVICE,
+    WASHING_DEVICE,
+    DEFAULTTYPE_DEVICE,
+    NON_USABLE
+
+}
