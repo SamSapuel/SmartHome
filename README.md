@@ -1,15 +1,15 @@
 # Omo-smarthome
 
-Simple smarthome application for OMO
+Simple smarthome application
 
-## Členové týmu
+## Team members
 
 - Richard Fritsch
 - Dmitriy Shevchenko
 
-## Popis zpracování
+## Processing description
 
-### UML Diagramy
+### UML Diagrams
 
 [UML Class diagram](class-diagram.png)
 
@@ -17,71 +17,71 @@ Simple smarthome application for OMO
 
 [UML State machine diagram](state-machine-diagram.png)
 
-### Slovní popis
+### Verbal description
 
-Prvním krokem simulace je náhodná generace akcí u všech osob v domu. Ty si
-náhodně zařízení v domě podle své momentální strategie, přesunou se do místnosti,
-ve které se nachází a zkusí ho použít. Následně se aktualizují stav a spotřeba
-všech zařízení. Ty mají vždy nepatrnou šanci se rozbít.
+The first step in the simulation is a random generation of actions for all the people in the house. You are
+randomly installed equipment in the house according to their current strategy, they move into the room,
+in which it is located and will try to use it. Subsequently, the status and consumption are updated
+all devices. You always have little chance of breaking down.
 
-Všechny entity, jako například konkrétní lidé, zařízení či eventy, mají nějakou
-abstraktní třídu, ze které dědí společné vlastnosti. Ty jsou umístěny v hlavních
-balíčcích, jejich implementace jsou pak v podbalíčcích. Většina kódu je pak
-přivedena dohromady v třídách balíčku `api`.
+All entities, such as specific people, facilities or events, have one
+an abstract class from which common properties inherit. These are located in the main
+packages, their implementations are then in subpackages. Most of the code is then
+brought together in the classes of the `api` package.
 
-## Návrhové vzory
+## Design patterns
 
-- State machine, třída `DeviceState` a její implementace
-- Factory, třídy `LivingFactory` a `DeviceFactory`
-- Singleton, třída `House`
-- Listener, třída `EventService` a všechny třídy implementující `EventListener` interface
-- Bridge, např. `Event`
-- Strategy, třída `Strategy` a její implementace
+- State machine, class `DeviceState` and its implementation
+- Factory, classes `LivingFactory` and` DeviceFactory`
+- Singleton, `House` Avenue
+- Listener, class `EventService` and all classes implementing` EventListener` interface
+- Bridge, eg `Event`
+- Strategy, `Strategy` class and its implementation
 
-## Funkční požadavky
+## Functional requirements
 
-- [x] F1 - Entity se kterými pracujeme je dům, okno (+ venkovní žaluzie), patro v domu, senzor, zařízení (=spotřebič), osoba, auto, kolo, domácí zvíře jiného než hospodářského typu, plus libovolné další entity
-  - obsaženo v třídách, které se nalézají např. v balíčcích `devices`, `house`, `living`, `sensors`.
+- [x] F1 - Entities we work with are house, window (+ outdoor blinds), floor in the house, sensor, equipment (= appliance), person, car, bicycle, pet other than farm type, plus any other entities
+  - contained in classes, which are found eg in packages `devices`,` house`, `living`,` sensors`.
 
-- [x] F2. Jednotlivá zařízení v domu mají API na ovládání. Zařízení mají stav, který lze měnit pomocí API na jeho ovládání. Akce z API jsou použitelné podle stavu zařízení. Vybraná zařízení mohou mít i obsah - lednice má jídlo, CD přehrávač má CD.
-  - Implementováno v třídách `Device` a `DeviceState` a jejich konkrétních implementacích
+- [x] F2. Individual devices in the house have an API for control. Devices have a state that can be changed using the API to control it. Actions from the API are applicable depending on the state of the device. Selected devices may also have content - the refrigerator has food, the CD player has a CD.
+  - Implemented in the `Device` and` DeviceState` classes and their specific implementations
 
-- [x] F3. Spotřebiče mají svojí spotřebu v aktivním stavu, idle stavu, vypnutém stavu
-  - zaznamenává se při použití metody `update()`
-  - mapy stavu na spotřebu uloženy v `DeviceEnergyConsumption`
+- [x] F3. Appliances have their consumption in active state, idle state, off state
+  - is recorded using the `update ()` method
+  - consumption status maps stored in `DeviceEnergyConsumption`
 
-- [x] F4. Jednotlivá zařízení mají API na sběr dat o tomto zařízení. O zařízeních sbíráme data jako spotřeba elektřiny, plynu, vody a funkčnost (klesá lineárně s časem)
-  - uloženo v `DeviceReportService`
+- [x] F4. Each device has an API for collecting data about that device. We collect data about devices such as electricity, gas, water consumption and functionality (decreases linearly with time)
+  - stored in `DeviceReportService`
 
-- [x] F5. Jednotlivé osoby a zvířata mohou provádět aktivity(akce), které mají nějaký efekt na zařízení nebo jinou osobu.
-  - implementováno pomocí tříd v balíčku `entityAction`
+- [x] F5. Individuals and animals can perform activities that have some effect on the facility or another person.
+  - implemented using classes in the `entityAction` package
 
-- [x] F6. Jednotlivá zařízení a osoby se v každém okamžiku vyskytují v jedné místnosti (pokud nesportují) a náhodně generují eventy (eventem může být důležitá informace a nebo alert)
-  - generování eventů využito zatím jen u zařízení, balíček `events`
+- [x] F6. Individual devices and people appear in one room at any time (if they do not play sports) and randomly generate events (an event can be important information or an alert)
+  - event generation is used only for devices, `events` package
 
-- [x] F7. Eventy jsou přebírány a odbavovány vhodnou osobou (osobami) nebo zařízením (zařízeními).
-  - vyřešeno skrze `EventService` třídu a `handle` metody v třídě `Event`
+- [x] F7. Events are taken over and handled by a suitable person (s) or facility (ies).
+  - solved through the `EventService` class and` handle` methods in the `Event` class
 
-- F8. Vygenerování reportů
+- F8. Generating reports
   - [x] HouseConfigurationReport
   - [x] EventReport
   - [x] ActivityAndUsageReport
   - [x] ConsumptionReport
-  - implementováno v balíčku `reports`
+  - implemented in the `reports` package
 
-- [ ] F9. Při rozbití zařízení musí obyvatel domu prozkoumat dokumentaci k zařízení - najít záruční list, projít manuál na opravu a provést nápravnou akcí (např. Oprava svépomocí, koupě nového atd.). Manuály zabírají mnoho místa a trvá dlouho než je najdete.
-  - opravování probíhá zjednoduššeně
+- [] F9. When the equipment is broken, the occupants of the house must examine the documentation for the equipment - find the warranty card, go through the repair manual and carry out corrective action (eg self-repair, purchase of a new one, etc.). Manuals take up a lot of space and take a long time to find.
+  - repairs are simplified
 
-- [x] F10. Rodina je aktivní a volný čas tráví zhruba v poměru (50% používání spotřebičů v domě a 50% sport kdy používá sportovní náčiní kolo nebo lyže). Když není volné zařízení nebo sportovní náčiní, tak osoba čeká.
-  - implementováno částečně skrze strategie (chybí využití "dopravních prostředků" a čekání na zařízení)
+- [x] F10. The family is active and spends about their free time on a pro rata basis (50% use appliances in the house and 50% do sports when they use sports equipment bikes or skis). When there is no free equipment or sports equipment, the person is waiting.
+  - implemented partly through strategies (lack of use of "means of transport" and waiting for equipment)
 
-## Dodatek
+## Afterwords
 
 ### Richard Fritsch
 
-Pochválil bych se za vyřešení handlování eventů pomocí double dispatch.
-Dále se mi líbí využití abstraktních tříd pro sdílení společných vlastností.
+I would like to brag about solving event handling using double dispatch.
+I also like the use of abstract classes to share common properties.
 
 ### Dmitriy Shevchenko
-Za sebe budu chválit implementaci generování reportů a jejich sčítání do souboru
-Taky bych řekl, že využití abstraktních třid a interfaců je docela šikovná věc k implementaci do velkých projektů
+For myself, I will praise the implementation of report generation and their addition to a file
+I would also say that using abstract classes and interfaces is a pretty handy thing to implement in large projects
