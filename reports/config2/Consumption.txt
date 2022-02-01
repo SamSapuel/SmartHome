@@ -1,0 +1,49 @@
+➣Device PS4 has consumed:
+  ➣116 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device Panasonic has consumed:
+  ➣249 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device Panasonic has consumed:
+  ➣342 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device Washy washy has consumed:
+  ➣608 units of electricity
+  ➣0 units of gas
+  ➣465 units of water.
+➣Device Asus has consumed:
+  ➣186 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device Bosch has consumed:
+  ➣42 units of electricity
+  ➣0 units of gas
+  ➣192 units of water.
+➣Device Runner 3000 has consumed:
+  ➣459 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device PS4 has consumed:
+  ➣80 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device PS4 has consumed:
+  ➣360 units of electricity
+  ➣0 units of gas
+  ➣0 units of water.
+➣Device Washy washy has consumed:
+  ➣768 units of electricity
+  ➣0 units of gas
+  ➣590 units of water.
+
+①Total electricity consumption:
+3210
+②Total gas consumption:
+0
+③Total water consumption:
+1247
+④Total devices use counter:
+519

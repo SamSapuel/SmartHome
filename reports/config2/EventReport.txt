@@ -1,0 +1,609 @@
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Bosch->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = null, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 1, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 2, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 2, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 2, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 2, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 2, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 2, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 3, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 4, DeviceName = Bosch->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 4, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 4, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 4, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 5, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 6, DeviceName = Bosch->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 6, DeviceName = Bosch->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 6, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 6, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = PetNeedsFoodEvent, eventTime = 6, {name='Cat', room=BedRoom#2, age=10}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 7, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 7, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Bosch->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Bosch->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Bosch->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Bosch->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 8, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = BrokenEvent, eventTime = 8, DeviceName = Bosch->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 9, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 9, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 9, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 9, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 9, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 9, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 9, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 10, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 11, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 12, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 12, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 12, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 12, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 13, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 13, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 13, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 14, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 15, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 15, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 15, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 15, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 15, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 15, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 16, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 17, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 17, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 17, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 18, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 18, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 18, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 18, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 19, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 19, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 20, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 20, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 20, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 20, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 20, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 20, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 20, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 21, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 21, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 22, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = BrokenEvent, eventTime = 22, DeviceName = PS4->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 23, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 23, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = PetNeedsFoodEvent, eventTime = 23, {name='Dog', room=BedRoom#1, age=2}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 23, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 23, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 23, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = SwitchedOnEvent, eventTime = 23, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 24, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 24, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 24, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = BrokenEvent, eventTime = 24, DeviceName = PS4->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 25, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 25, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 25, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 25, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 25, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 25, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 25, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 26, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 26, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 26, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 26, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 26, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 26, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 27, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 27, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 27, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 27, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 27, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 28, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 28, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 29, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 29, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 29, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = PetNeedsFoodEvent, eventTime = 29, {name='Dog', room=BedRoom#1, age=2}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 29, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 29, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 30, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 30, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 30, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 30, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 30, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 31, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 31, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 32, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 32, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 32, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 32, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 33, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 33, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 33, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 33, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 34, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 34, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 34, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 34, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 34, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 34, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 35, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 36, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 36, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 36, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 36, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 36, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 36, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 37, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 37, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 37, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 37, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 37, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 38, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 38, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 38, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 38, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 38, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 38, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 38, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 39, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 39, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 39, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 39, DeviceName = Asus->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 39, DeviceName = Asus->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = BrokenEvent, eventTime = 39, DeviceName = Asus->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 40, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 40, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 41, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 42, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 42, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 42, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 42, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 42, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 42, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 43, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 44, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 44, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 44, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 44, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 44, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 44, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 44, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 45, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 45, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 45, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 45, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 46, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 46, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 46, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 46, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 47, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 47, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 47, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 47, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 47, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 48, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 48, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 48, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 48, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 48, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 48, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 48, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 49, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 49, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 49, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 49, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 49, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 49, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 49, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 50, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 50, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 50, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 50, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 50, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 50, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 51, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 51, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 51, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 51, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 51, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 51, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 51, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 51, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 52, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 52, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 52, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 53, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 53, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 54, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 54, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 54, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 54, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = PetNeedsFoodEvent, eventTime = 54, {name='Cat', room=BedRoom#2, age=10}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 55, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 55, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 55, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 55, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 55, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 55, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 56, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 57, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 57, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 57, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 57, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 57, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 57, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 57, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 58, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 58, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 58, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 58, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = PetNeedsFoodEvent, eventTime = 58, {name='Cat', room=BedRoom#2, age=10}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 59, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 59, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 59, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 59, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 59, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 59, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 60, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 60, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 60, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 60, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 61, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 62, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 62, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 62, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 62, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 62, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 62, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 62, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 63, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 63, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 63, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 63, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 63, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 63, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 64, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 64, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 64, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 64, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 64, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 64, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 64, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 65, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 65, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 65, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 65, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 65, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 65, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 65, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 66, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 66, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 67, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 67, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 67, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 67, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 67, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 68, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 68, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 68, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 68, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 69, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 69, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 69, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 69, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 69, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 70, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 70, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 70, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 71, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 71, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 71, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 71, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 71, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 71, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = PetNeedsFoodEvent, eventTime = 72, {name='Dog', room=BedRoom#1, age=2}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 72, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 73, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 74, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 74, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 74, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 74, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 74, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 74, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 75, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 75, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 75, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 75, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 75, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 76, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 77, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 77, DeviceName = Runner 3000->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 77, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 77, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 77, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = SwitchedOnEvent, eventTime = 77, DeviceName = Runner 3000->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 77, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = BrokenEvent, eventTime = 77, DeviceName = Runner 3000->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 78, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 78, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = PetNeedsFoodEvent, eventTime = 78, {name='Cat', room=BedRoom#2, age=10}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 78, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 79, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 79, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 79, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 79, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 79, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 80, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 80, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 80, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 81, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 81, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 81, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 81, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 82, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 82, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 82, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 82, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 82, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 82, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 83, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 83, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 83, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 84, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 84, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 84, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 84, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 84, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 84, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 84, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 84, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 85, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 85, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 86, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 86, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 86, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 86, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 87, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = SwitchedOnEvent, eventTime = 87, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 87, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 87, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = BrokenEvent, eventTime = 87, DeviceName = Washy washy->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 88, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 88, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = PetNeedsFoodEvent, eventTime = 88, {name='Cat', room=BedRoom#2, age=10}->PET_NEEDS_FOOD, isNeedsEvent = true
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 88, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 89, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 89, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 89, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 90, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 90, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 90, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 90, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 91, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 91, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 91, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 91, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 91, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 92, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 92, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 92, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 92, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 93, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 93, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 93, DeviceName = Asus->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 93, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 93, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 94, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 94, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 94, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 94, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 94, DeviceName = Washy washy->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 94, DeviceName = Washy washy->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 94, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 94, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 95, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 95, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 95, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 95, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 95, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 96, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 96, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 96, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 96, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 97, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 97, DeviceName = Panasonic->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 97, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 98, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 98, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 98, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = SwitchedOnEvent, eventTime = 98, DeviceName = Panasonic->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 98, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#1, eventName = BrokenEvent, eventTime = 98, DeviceName = Panasonic->BROKEN, isNeedsEvent = true
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 99, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 99, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = LivingRoom, eventName = Unusable device, eventTime = 99, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 99, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 99, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 99, DeviceName = Runner 3000->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 99, DeviceName = PS4->SWITCHED_OFF, isNeedsEvent = false
+▽Event: eventRoom = Attic, eventName = SwitchedOnEvent, eventTime = 99, DeviceName = PS4->SWITCHED_ON, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 100, DeviceName = PS4->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 100, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = Kitchen, eventName = Unusable device, eventTime = 100, DeviceName = Washy washy->DEVICE_UNUSABLE, isNeedsEvent = false
+▽Event: eventRoom = BedRoom#2, eventName = Unusable device, eventTime = 100, DeviceName = Bosch->DEVICE_UNUSABLE, isNeedsEvent = false

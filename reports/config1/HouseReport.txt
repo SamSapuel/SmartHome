@@ -1,0 +1,32 @@
+!Configuration no. 1
+->House has 3 floors
+ ->Floor 0 has rooms:
+  ->Room: LivingRoom
+  ->Devices: PS4, Runner 3000, 
+  ->Room: BedRoom#1
+  ->Devices: PS4, Bosch, 
+  ->Room: Kitchen
+  ->Devices: Washy washy, Runner 3000, PS4, 
+ ->Floor 1 has rooms:
+  ->Room: LivingRoom
+  ->Devices: PS4, Asus, 
+  ->Room: Kitchen
+  ->Devices: Runner 3000, Runner 3000, 
+ ->Floor 2 has rooms:
+  ->Room: BedRoom#2
+  ->Devices: Washy washy, Runner 3000, 
+  ->Room: Kitchen
+  ->Devices: Washy washy, Washy washy, Bosch, 
+  ->Room: Attic
+  ->Devices: PS4, Asus, 
+-->There are some Living entities:
+  -->Entity 'AnotherSon'
+  -->Entity 'Father'
+  -->Entity 'Dog'
+  -->Entity 'Mother'
+  -->Entity 'AnotherSon'
+  -->Entity 'Mother'
+  -->Entity 'Son'
+  -->Entity 'Cat'
+  -->Entity 'Mother'
+  -->Entity 'Daughter'

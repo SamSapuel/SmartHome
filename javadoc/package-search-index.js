@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"api"},{"l":"devices"},{"l":"entityAction"},{"l":"events"},{"l":"events.devices"},{"l":"events.pets"},{"l":"home"},{"l":"living"},{"l":"living.humans"},{"l":"living.pets"},{"l":"living.strategy"},{"l":"reports"},{"l":"sensors"},{"l":"vehicles"}]

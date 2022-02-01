@@ -1,0 +1,25 @@
+!Configuration no. 2
+->House has 2 floors
+ ->Floor 0 has rooms:
+  ->Room: LivingRoom
+  ->Devices: PS4, 
+  ->Room: BedRoom#1
+  ->Devices: Panasonic, Panasonic, 
+  ->Room: Kitchen
+  ->Devices: Washy washy, Asus, 
+ ->Floor 1 has rooms:
+  ->Room: BedRoom#2
+  ->Devices: Bosch, Runner 3000, 
+  ->Room: Kitchen
+  ->Devices: PS4, 
+  ->Room: Attic
+  ->Devices: PS4, Washy washy, 
+-->There are some Living entities:
+  -->Entity 'AnotherSon'
+  -->Entity 'Father'
+  -->Entity 'Dog'
+  -->Entity 'Mother'
+  -->Entity 'Son'
+  -->Entity 'Cat'
+  -->Entity 'Mother'
+  -->Entity 'Daughter'

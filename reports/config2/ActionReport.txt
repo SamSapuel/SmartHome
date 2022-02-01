@@ -1,0 +1,959 @@
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: used -> Asus
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> PS4
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Asus
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Asus
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Bosch
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> PS4
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Bosch
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: pet -> Cat
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Cat
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Cat
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Bosch
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Bosch
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: used -> Panasonic
+◉Who: Father-> What did: fixed -> Bosch
+◉Who: Mother-> What did: complained about -> Bosch
+◉Who: Mother-> What did: complained about -> Bosch
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> PS4
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Asus
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: used -> PS4
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: used -> Asus
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: Father-> What did: fixed -> PS4
+◉Who: Daughter-> What did: complained about -> PS4
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: pet -> Dog
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Dog
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Dog
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Father-> What did: fixed -> PS4
+◉Who: Daughter-> What did: complained about -> PS4
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: pet -> Dog
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Dog
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Dog
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Asus
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Asus
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> PS4
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Asus
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Father-> What did: fixed -> Asus
+◉Who: Daughter-> What did: complained about -> Asus
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> PS4
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> PS4
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: pet -> Cat
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Cat
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Cat
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: pet -> Cat
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Cat
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Cat
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> PS4
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: used -> Panasonic
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> PS4
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: used -> Panasonic
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: pet -> Dog
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Dog
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Dog
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> PS4
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: used -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> PS4
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: used -> Runner 3000
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: used -> Runner 3000
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: used -> Runner 3000
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: Father-> What did: fixed -> Runner 3000
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: pet -> Cat
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Cat
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Cat
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: used -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Father-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Mother-> What did: used -> Washy washy
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: Father-> What did: fixed -> Washy washy
+◉Who: Mother-> What did: complained about -> Washy washy
+◉Who: Mother-> What did: complained about -> Washy washy
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: pet -> Cat
+◉Who: Father-> What did: got item -> Pet food
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Son-> What did: pet -> Cat
+◉Who: Mother-> What did: used -> Food bowl
+◉Who: Daughter-> What did: pet -> Cat
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: moved -> Attic
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> LivingRoom
+◉Who: AnotherSon-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#1
+◉Who: Father-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> Washy washy
+◉Who: Father-> What did: moved -> Attic
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Son-> What did: moved -> Attic
+◉Who: Son-> What did: used -> Washy washy
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: used -> Panasonic
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Kitchen
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> BedRoom#1
+◉Who: Son-> What did: used -> Panasonic
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> BedRoom#1
+◉Who: AnotherSon-> What did: moved -> Kitchen
+◉Who: Father-> What did: moved -> Attic
+◉Who: Father-> What did: used -> PS4
+◉Who: Mother-> What did: moved -> LivingRoom
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#1
+◉Who: Mother-> What did: used -> Panasonic
+◉Who: Daughter-> What did: moved -> BedRoom#2
+◉Who: Father-> What did: fixed -> Panasonic
+◉Who: Daughter-> What did: complained about -> Panasonic
+◉Who: AnotherSon-> What did: moved -> Attic
+◉Who: AnotherSon-> What did: used -> PS4
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Son-> What did: moved -> BedRoom#2
+◉Who: Mother-> What did: moved -> BedRoom#2
+◉Who: Daughter-> What did: moved -> Attic
+◉Who: Daughter-> What did: used -> PS4
+◉Who: AnotherSon-> What did: moved -> LivingRoom
+◉Who: Father-> What did: moved -> LivingRoom
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Son-> What did: moved -> Kitchen
+◉Who: Mother-> What did: moved -> Kitchen
+◉Who: Daughter-> What did: moved -> BedRoom#2

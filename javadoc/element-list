@@ -1,0 +1,15 @@
+unnamed package
+api
+devices
+entityAction
+events
+events.devices
+events.pets
+home
+living
+living.humans
+living.pets
+living.strategy
+reports
+sensors
+vehicles
